@@ -9,35 +9,28 @@ h1 {
   background-color: rgb(250, 252, 255);
   color: hsl(239deg 50% 47%);
   padding: 40px;
-  text-align: center;
-}
+  text-align: center;}
 
 p {
-  background-color: #a09292;
-}
+  background-color: #a09292;}
 
 ul {
-  color: black;
-}
+  color: black;}
 
 ul li::before {
-  content: "✅";
-}
+  content: "✅";}
 
 table {
-  border: solid thin;
-}
+  border: solid thin;}
 
 th {
   height: 2rem;
   background: red;
   border: 1px solid white;
-  text-align: left;
-}
+  text-align: left;}
 
 td {
   height: 2rem;
   background: red;
   border: 1px solid black;
-  text-align: center;
-}
+  text-align: center;}
